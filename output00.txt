@@ -1,0 +1,24 @@
+Initialized Bank SBH, Branch: hyderabad, IFSC Code: SBIN0014869
+Savings Account created with account number: 301011, balance in the account is: 50000.0
+Checking Account created with account number: 301012, balance in the account is: 20000.0
+Current Account created with account number: 301013, balance in the account is: 30000.0
+Savings Account created with account number: 301014, balance in the account is: 13420.0
+Current Account created with account number: 301015, balance in the account is: 34545.0
+After debit from account number: 301011, balance in the account is: 49322.0
+After credit to account number: 301011, balance in the account is: 61456.0
+After credit to account number: 301013, balance in the account is: 32345.0
+After debit from account number: 301013, balance in the account is: 32114.0
+After credit to account number: 301013, balance in the account is: 35365.0
+After crediting interest to account number: 301011, balance in the account is: 63914.24
+After credit to account number: 301012, balance in the account is: 20456.0
+After debit from account number: 301012, balance in the account is: 20135.0
+After credit to account number: 301012, balance in the account is: 20900.0
+After credit to account number: 301012, balance in the account is: 23324.0
+After debiting transaction fees from account number: 301012, balance in the account is: 23224.0
+account number: 301015, balance in the account is: 34545.0
+301015 is a non-performing account
+account number: 301013, balance in the account is: 35365.0
+account number: 301011, balance in the account is: 63914.24
+account number: 301012, balance in the account is: 23224.0
+account number: 301014, balance in the account is: 13420.0
+301014 is a non-performing account

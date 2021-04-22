@@ -1,0 +1,18 @@
+bank SBH,hyderabad,SBIN0014869
+savings 301011,ramraju,01-01-1997,hyderabad,ramraju77@gmail.com,+007894266466,50000.0
+checking 301012,ramraju,01-01-1997,hyderabad,ramraju77@gmail.com,+007894266466,20000.0
+current 301013,ramraju,01-01-1997,hyderabad,ramraju77@gmail.com,+007894266466,30000.0
+savings 301014,Ashok,30-10-1966,sameerpet,ashokraj@gmail.com,+0098895612301,13420.0
+current 301015,Nikhil,08-08-1996,kukatpally,Nikhil@gmail.com,+0012345678902,34545.0
+debit 301011,678.0
+credit 301011,12134.00
+credit 301013,2345.0
+debit 301013,231.0
+credit 301013,3251.0
+creditinterest 301011
+credit 301012,456.0
+debit 301012,321.0
+credit 301012,765.0
+credit 301012,2424.0
+debitfees 301012
+displayaccounts
